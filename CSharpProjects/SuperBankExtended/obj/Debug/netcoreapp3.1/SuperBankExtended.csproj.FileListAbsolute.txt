@@ -1,0 +1,13 @@
+C:\Users\steve\source\repos\SuperBankExtended\bin\Debug\netcoreapp3.1\SuperBankExtended.exe
+C:\Users\steve\source\repos\SuperBankExtended\bin\Debug\netcoreapp3.1\SuperBankExtended.deps.json
+C:\Users\steve\source\repos\SuperBankExtended\bin\Debug\netcoreapp3.1\SuperBankExtended.runtimeconfig.json
+C:\Users\steve\source\repos\SuperBankExtended\bin\Debug\netcoreapp3.1\SuperBankExtended.runtimeconfig.dev.json
+C:\Users\steve\source\repos\SuperBankExtended\bin\Debug\netcoreapp3.1\SuperBankExtended.dll
+C:\Users\steve\source\repos\SuperBankExtended\bin\Debug\netcoreapp3.1\SuperBankExtended.pdb
+C:\Users\steve\source\repos\SuperBankExtended\obj\Debug\netcoreapp3.1\SuperBankExtended.csprojAssemblyReference.cache
+C:\Users\steve\source\repos\SuperBankExtended\obj\Debug\netcoreapp3.1\SuperBankExtended.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\SuperBankExtended\obj\Debug\netcoreapp3.1\SuperBankExtended.AssemblyInfo.cs
+C:\Users\steve\source\repos\SuperBankExtended\obj\Debug\netcoreapp3.1\SuperBankExtended.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\SuperBankExtended\obj\Debug\netcoreapp3.1\SuperBankExtended.dll
+C:\Users\steve\source\repos\SuperBankExtended\obj\Debug\netcoreapp3.1\SuperBankExtended.pdb
+C:\Users\steve\source\repos\SuperBankExtended\obj\Debug\netcoreapp3.1\SuperBankExtended.genruntimeconfig.cache
